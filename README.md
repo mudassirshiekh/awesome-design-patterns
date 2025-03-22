@@ -31,6 +31,7 @@
 <br>
 
 ## Programming Language Design Patterns
+## By Mudassir Alam
 
 - AngularJS
 	- [design patterns](https://github.com/mgechev/angularjs-in-patterns)
